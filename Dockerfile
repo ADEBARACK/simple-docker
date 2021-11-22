@@ -22,7 +22,6 @@ RUN apt-get update && apt-get install -y \
     libjansson4 \
     libgomp1 \
     libnuma-dev \
-    screen \
  && mkdir -p /home/stuff
 
 # Set work dir:
