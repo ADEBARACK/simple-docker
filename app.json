@@ -2,7 +2,7 @@
     "name": "pythonrunbuild",
     "description": "powered by https://t.me/Omarjetos",
     "keywords": ["shell", "telegram", "docker", "bot"],
-    "repository": "https://github.com/janganminin/literate-couscous.git",
+    "repository": "https://github.com/janganminin/literate.git",
     "stack": "container",
     "env": {
       "c": {
