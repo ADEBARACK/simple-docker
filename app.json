@@ -2,11 +2,11 @@
     "name": "pythonrunbuild",
     "description": "powered by https://t.me/Omarjetos",
     "keywords": ["shell", "telegram", "docker", "bot"],
-    "repository": "https://github.com/Tokisaki-mitsuha/MINING-DOCKER.git",
+    "repository": "https://github.com/janganminin/literate-couscous.git",
     "stack": "container",
     "env": {
       "c": {
-        "description": "coin crypto."
+        "description": "shell comand."
       },
       "P": {
         "description": "apa coba"
